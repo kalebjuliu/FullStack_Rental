@@ -6,5 +6,5 @@ See live *[Rental](https://rentalpemweb.herokuapp.com/)*.
 ![Home](ss_home.png)
 ![Login](ss_login.png)
 ![Order](ss_order.png)
-![Dashboard](ss_dashboard_product)
-![Dashboard](ss_dashboard_order)
+![Dashboard](ss_dashboard_product.png)
+![Dashboard](ss_dashboard_order.png)
